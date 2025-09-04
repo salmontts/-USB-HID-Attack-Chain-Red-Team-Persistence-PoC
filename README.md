@@ -11,7 +11,7 @@ The attack chain is fully automated:
 3. A custom persistence implant (`windows.exe`) is deployed into the **Windows Startup folder**.
 4. The implant executes silently in **stealth mode** and logs keystrokes for collection.
 
-⏱ **Time from device insertion to persistence: \~15 seconds**
+⏱ **Time from device insertion to persistence: \~10 seconds**
 
 This project was created as a **controlled Red Team training exercise** and demonstrates how endpoint defenses can be bypassed with minimal tooling.
 
