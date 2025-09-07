@@ -115,3 +115,10 @@ This project is intended strictly for:
 Unauthorized use may violate local and international laws.
 
 ---
+
+## 👤 Author
+
+- `salmontts`  
+- [github.com/salmontts](https://github.com/salmontts)
+
+---
